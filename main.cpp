@@ -16,7 +16,6 @@ bool isLanguage(std::string lang) {
 }
 
 void run() {
-    std::cout << langs.size() << '\n';
     std::cout << ">> \"Hello World\"\n"
                  "-------------------------\n"
                  "Select the language you want\n"
